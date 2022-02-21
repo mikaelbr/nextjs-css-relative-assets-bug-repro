@@ -188,6 +188,11 @@
     "@typescript-eslint/types" "5.12.1"
     eslint-visitor-keys "^3.0.0"
 
+"@variant/profile@^3.0.1":
+  version "3.0.1"
+  resolved "https://registry.yarnpkg.com/@variant/profile/-/profile-3.0.1.tgz#f478a16c21994701dac9030fb39780834c01b326"
+  integrity sha512-9syuLzQjwsnKBuyrtoQ9U+rt4tx1N75Jsl16jztYirli++clriP21IeXdfMBP/utoltnxVnVg/uYEwm3NRAvBg==
+
 acorn-jsx@^5.3.1:
   version "5.3.2"
   resolved "https://registry.yarnpkg.com/acorn-jsx/-/acorn-jsx-5.3.2.tgz#7ed5bb55908b3b2f1bc55c6af1653bada7f07937"
